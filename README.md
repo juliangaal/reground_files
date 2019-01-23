@@ -1,0 +1,1 @@
+This repo contains files that are used in the [thesis](./ba.pdf) and [jaco_manipulation](https://github.com/juliangaal/jaco_manipulation) as part of the [ReGround project](http://reground.cs.kuleuven.be/)
